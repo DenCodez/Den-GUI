@@ -1112,7 +1112,7 @@ end]]
 	return screenGui
 end
 
--- Execute the function to create all StarterGui content
+-- Execute the GUI
 local createdGui = createStarterGuiContent()
 
 print("Successfully launched Den's GUI!")
