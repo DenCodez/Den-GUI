@@ -12,6 +12,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DenCodez/Den-GUI/main
 Script Version: 0.1 <br><br>
 So I decided to make an own GUI simillar to c00lkidd. I'm a c00lkidd fan (Pls no hate) so thats why i decided to make this, and this is still in development. I'll add more hacks in the future (probably, and i said probably cuz i would forget about it somehow.). I tried to make it old roblox themed but it turned out horrible.
 
+
+<img width="628" height="532" alt="Screenshot 2025-12-23 at 8 37 37 PM" src="https://github.com/user-attachments/assets/c014972a-6673-4988-a288-45e323f5f2ee" />
+
+
 ## Features
 - Client Hacks
 - Server Hacks (W.I.P)
