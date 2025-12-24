@@ -3,6 +3,11 @@ team den. muhehehe >:)
 **This is a roblox exploit GUI made by den.**
 *KEEP IN MIND THAT THIS IS STILL IN DEVELOPMENT. SCRIPT IS IN ALPHA VERSION. PC ONLY SCRIPT*
 
+Copy and paste this into your executor:
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DenCodez/Den-GUI/main/GUI))()
+```
+
 # Den's GUI
 Script Version: 0.1 <br><br>
 So I decided to make an own GUI simillar to c00lkidd. I'm a c00lkidd fan (Pls no hate) so thats why i decided to make this, and this is still in development. I'll add more hacks in the future (probably, and i said probably cuz i would forget about it somehow.). I tried to make it old roblox themed but it turned out horrible.
