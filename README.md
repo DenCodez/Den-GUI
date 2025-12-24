@@ -5,7 +5,7 @@ team den. muhehehe >:)
 
 Copy and paste this into your executor:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DenCodez/Den-GUI/main/GUI))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DenCodez/Den-GUI/main/GUI.luau))()
 ```
 
 # Den's GUI
